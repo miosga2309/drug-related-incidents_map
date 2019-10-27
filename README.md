@@ -3,7 +3,7 @@
 Data source:  
 https://www.acleddata.com/data/
 
-View: 
+View:
 https://nbviewer.jupyter.org/github/miosga2309/projects/blob/master/drug_incidents_asia_2019.ipynb
 
 
