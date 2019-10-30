@@ -8,7 +8,7 @@ https://nbviewer.jupyter.org/github/miosga2309/projects/blob/master/drug_inciden
 
 
 The ACLED dataset on Asia is used to locate drug-related incidents in several countries on the continent via leaflet and the folium module in python.\
-By clicking on the app markers, an incident description will pop up. Planned extensions are the color-coding of the markers for the severity of the incident measured by fatalities.\
+By clicking on the app markers, an incident description will pop up. Planned extensions are a dashboard and a more sophisticated color coding/visualization of fatalities.\
 The project is considered as a private interest of mine.
 
 Reference:
